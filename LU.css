@@ -1,0 +1,39 @@
+.logo{
+    height: 56px;
+    width: 56px;
+    margin-top: 4px;
+}
+.menuBtn {
+    width: 100px;
+    margin-top: 9px;
+}
+.menuHover:hover {
+        color: red;
+    }
+.loa {
+    border-radius: 0;
+    position: relative;
+    margin-top: -190px;
+    margin-left: 260px;
+}
+
+.loa1 {
+     border-radius: 0;
+    position: relative;
+    margin-top: -90px;
+    margin-left: 144px;
+
+}
+
+.loa2 {
+    color: white;
+    position: relative;
+    margin-top: -100px;
+    margin-left: 32px;
+}
+
+.loa3 {
+    position: relative;
+    margin-top: -220px;
+    margin-left: 900px;
+}
