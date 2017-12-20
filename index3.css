@@ -1,0 +1,65 @@
+#daohang {
+        padding: 36px 122px 100px 666px;
+        color: white;
+        font-size: 18px;
+    }
+
+    #jiange {
+        padding-left: 75px;
+        padding-right: :75px
+    }
+
+    #lianjie:hover {
+        color: red;
+    }
+    #zhutifont{
+        padding: 90px 931px 20px 126px;
+        width: 410;
+
+    }
+    #tansuo{
+        color: white;
+        font-size: 20px;
+        padding: 0px 1057px 60px 261px;
+        width: 128;
+        height: 48;
+        text-align: center;
+
+    }
+    #nvzhuangimg{
+        padding: 256px 931px 20px 121px;
+    }
+    #nvzhuang{
+        padding: 40px 0px 20px 360px;
+        font-size: 18px;
+        text-align: center;
+    }
+    #nanzhuang{
+        padding: 40px 0px 20px 500px;
+        font-size: 18px;
+        text-align: center;
+    }
+    #jianju{
+        padding-top: 2000px;
+    }
+
+
+
+
+
+
+#menu{
+    width: 200px;
+    height: 80px;
+    background: #b4b4b4;
+    text-align: center;
+
+}
+a{
+    font-size: 48px;
+    color: red;
+}
+#menuText{
+    position: relative;
+    top: 12px;
+}
